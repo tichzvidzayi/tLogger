@@ -1,0 +1,5 @@
+C:\Users\Tichaona Zvidzayi\source\repos\Tlogger\Tlogger\obj\Debug\net5.0\Tlogger.csproj.AssemblyReference.cache
+C:\Users\Tichaona Zvidzayi\source\repos\Tlogger\Tlogger\obj\Debug\net5.0\Tlogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tichaona Zvidzayi\source\repos\Tlogger\Tlogger\obj\Debug\net5.0\Tlogger.AssemblyInfoInputs.cache
+C:\Users\Tichaona Zvidzayi\source\repos\Tlogger\Tlogger\obj\Debug\net5.0\Tlogger.AssemblyInfo.cs
+C:\Users\Tichaona Zvidzayi\source\repos\Tlogger\Tlogger\obj\Debug\net5.0\Tlogger.csproj.CoreCompileInputs.cache
